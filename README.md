@@ -1,16 +1,14 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:00BFFF&height=250&section=header&text=Niraj%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Backend%20Learner%20|%20CSE%20Student&descAlignY=58&descSize=20" width="100%"/>
+
+</div>
+
 # Hi 👋, I'm Niraj Kumar
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Java+Developer+%7C+CSE+Student;Backend+Development+Enthusiast;Building+Projects+with+Java+%2B+JDBC+%2B+MySQL;Learning+DSA+and+Software+Engineering;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Niraj%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Learner%20%7C%20CSE%20Student&descAlignY=58&descSize=20" width="100%"/>
 
 </div>
 
@@ -75,9 +73,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -87,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-codes-07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=niraj-codes-07&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -97,9 +95,48 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-codes-07&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-codes-07&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
 
 </div>
+
+---
+
+# ⭐ Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java%20Backend-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-Clean%20Architecture-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-DSA%20in%20Java-purple?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 Developer Journey
+
+```java
+class NirajKumar {
+
+    String role = "CSE Student";
+    String focus = "Java Backend Development";
+
+    String\[\] skills = {
+        "Java",
+        "JDBC",
+        "MySQL",
+        "GitHub",
+        "OOP"
+    };
+
+    String currentGoal = "Crack Software Engineering Internship";
+
+    void keepLearning\(\) {
+        System.out.println\("Build → Learn → Improve 🚀"\);
+    }
+}
+```
 
 ---
 
@@ -124,6 +161,16 @@
 * ✅ Setup MySQL database connectivity independently
 * 🎯 Preparing for internships and software engineering roles
 * 🚀 Continuously improving problem-solving skills
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Build more backend projects
+* 📚 Master DSA in Java
+* 💻 Learn Spring Boot
+* 🌐 Improve GitHub profile
+* 🏆 Crack a good internship
 
 ---
 
