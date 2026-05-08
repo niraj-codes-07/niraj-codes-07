@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar</h1>
-<h3 align="center">CSE Student | Java Developer | DSA Enthusiast</h3>
+<h3 align="center">Java Developer | CSE Student | Learning Backend Development</h3>
 
 ---
 
