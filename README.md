@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:00BFFF&height=250&section=header&text=Niraj%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Backend%20Learner%20|%20CSE%20Student&descAlignY=58&descSize=20" width="100%"/>
+
+</div>
+
 # Hi 👋, I'm Niraj Kumar
 
 <div align="center">
@@ -75,9 +81,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -87,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-codes-07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=niraj-codes-07&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
@@ -97,9 +103,45 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-codes-07&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-codes-07&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+# 🚀 Developer Journey
+
+```java
+class NirajKumar {
+
+    String role = "CSE Student";
+    String focus = "Java Backend Development";
+
+    String\[\] skills = {
+        "Java",
+        "JDBC",
+        "MySQL",
+        "GitHub",
+        "OOP"
+    };
+
+    String currentGoal = "Crack Software Engineering Internship";
+
+    void keepLearning\(\) {
+        System.out.println\("Build → Learn → Improve 🚀"\);
+    }
+}
+```
 
 ---
 
@@ -124,6 +166,16 @@
 * ✅ Setup MySQL database connectivity independently
 * 🎯 Preparing for internships and software engineering roles
 * 🚀 Continuously improving problem-solving skills
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Build more backend projects
+* 📚 Master DSA in Java
+* 💻 Learn Spring Boot
+* 🌐 Improve GitHub profile
+* 🏆 Crack a good internship
 
 ---
 
