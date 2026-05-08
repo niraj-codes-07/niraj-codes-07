@@ -14,14 +14,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Niraj%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Learner%20%7C%20CSE%20Student&descAlignY=58&descSize=20" width="100%"/>
-
-</div>
-
----
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
@@ -81,9 +73,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
