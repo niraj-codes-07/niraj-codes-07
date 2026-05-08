@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- Profile Views + Followers -->
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=niraj-codes-07&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 &nbsp;
@@ -21,11 +20,11 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> About Me
 
-🎓 **B.Tech CSE** @ Vivekananda Global University  
-📍 **Location:** Jaipur, Rajasthan 🇮🇳  
-🛠️ **Experience:** Frontend Intern @ CodeAlpha  
-🎯 **Goal:** Software Engineer @ Product-Based Companies  
-📈 **DSA:** 50+ problems solved on LeetCode  
+🎓 **B.Tech CSE** @ Vivekananda Global University
+📍 **Location:** Jaipur, Rajasthan 🇮🇳
+🛠️ **Experience:** Frontend Intern @ CodeAlpha
+🎯 **Goal:** Software Engineer @ Product-Based Companies
+📈 **DSA:** 50+ problems solved on LeetCode
 ☕ **Motto:** *Turning coffee into Java code, one commit at a time!*
 
 ---
@@ -62,9 +61,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+
 </div>
 
 <br/>
@@ -95,9 +96,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
 
@@ -169,7 +170,6 @@
 
 ---
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
