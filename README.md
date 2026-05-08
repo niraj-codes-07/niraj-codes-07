@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/niraj-codes-07/niraj-codes-07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
