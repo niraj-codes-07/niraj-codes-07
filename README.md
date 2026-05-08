@@ -109,11 +109,14 @@
 
 ---
 
-# 🐍 Contribution Snake
+# ⭐ Highlights
 
 <div align="center">
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://img.shields.io/badge/Java%20Backend-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-Clean%20Architecture-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-DSA%20in%20Java-purple?style=for-the-badge" />
 
 </div>
 
