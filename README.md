@@ -1,53 +1,162 @@
-# Hi there, I'm Niraj! 👋 
+# Hi 👋, I'm Niraj Kumar
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Code%20Space&fontSize=50&animation=fadeIn" />
-</p>
+<div align="center">
 
-### 💫 About Me
-- 🎓 **Student** pursuing Computer Science at a Tier-2 University.
-- 💻 **Java Enthusiast** currently solving 2 coding problems daily to master DSA.
-- 📊 **Data Science Explorer** working on Bayesian Time Series forecasting.
-- 🚀 **Goal:** Preparing for placements at top tech firms like Google, Microsoft, and Amazon.
-- 📝 **Sharing my journey** on LinkedIn to connect with fellow developers and recruiters.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Java+Developer+%7C+CSE+Student;Backend+Development+Enthusiast;Building+Projects+with+Java+%2B+JDBC+%2B+MySQL;Learning+DSA+and+Software+Engineering;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Niraj%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Learner%20%7C%20CSE%20Student&descAlignY=58&descSize=20" width="100%"/>
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight" />
-</p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+## 🚀 About Me
 
----
-
-### 📂 Current Projects & Learning
-- 🔍 **Capstone Project:** Advanced forecasting using Python, PyMC, and Stan.
-- 🧠 **Daily Logic:** Strengthening problem-solving skills through consistent practice.
-- ⚙️ **Core CS:** Deep diving into OS, DBMS, and System Architecture.
+* 🎓 B.Tech CSE Student at **Vivekananda Global University, Jaipur**
+* ☕ Passionate about **Java Development** and Backend Systems
+* 💻 Building real-world projects using **Java, JDBC, and MySQL**
+* 🌱 Currently learning **DSA, OOP, and Backend Development**
+* 🛠️ Exploring **Software Engineering Concepts**
+* 🎯 Goal: Become a skilled **Software Engineer**
+* 📚 Interested in learning scalable backend technologies
+* ⚡ Love turning ideas into practical projects
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niraj" height="30" width="40" /></a>
-</p>
+# 🛠️ Tech Stack
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=niraj-codes-07&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-codes-07" /> 
-</p>
+<div align="center">
 
-![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=niraj-codes-07&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+# 📌 Featured Project
+
+## 🧑‍💼 Employee Management System
+
+### 🔥 Features
+
+* Admin Login Authentication
+* Add / Update / Delete Employee
+* Search Employee by ID
+* Department Search
+* Salary Filtering
+* Email Validation
+* File Export System
+* JDBC + MySQL Integration
+* Console-Based HR Management System
+
+### ⚙️ Tech Used
+
+* Java
+* JDBC
+* MySQL
+* OOP Concepts
+* File Handling
+
+### 📂 Repository
+
+🔗 [Employee Management System](https://github.com/niraj-codes-07)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=niraj-codes-07&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-codes-07&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-codes-07&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-codes-07&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge\&logo=openjdk)
+![DSA](https://img.shields.io/badge/DSA-Java-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-005C84?style=for-the-badge\&logo=mysql)
+![Backend](https://img.shields.io/badge/Backend-Development-green?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Learning-brightgreen?style=for-the-badge\&logo=springboot)
+
+</div>
+
+---
+
+# 🏆 Achievements & Goals
+
+* ✅ Built a complete Java + JDBC + MySQL project
+* ✅ Learned GitHub project management
+* ✅ Setup MySQL database connectivity independently
+* 🎯 Preparing for internships and software engineering roles
+* 🚀 Continuously improving problem-solving skills
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/niraj-codes-07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:dheerajkumar567899@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> "Consistency beats motivation. Build daily, improve daily."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
